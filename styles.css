@@ -1,27 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Tangerine:wght@400;700&display=swap');
 
 #block-yui_3_17_2_1_1749628353488_30497 h4 {
-    font-family: "Tangerine", cursive !important;
-    font-weight: 400 !important;
-    font-style: normal !important;
-    color: #FFFFFF !important;
+  font-family: "Tangerine", cursive !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  color: #FFFFFF !important;
 }
+
 h2#history-page-title {
-    font-family: "Tangerine", cursive !important;
-    font-weight: 400 !important;
-    font-style: normal !important;
-    color: #FFFFFF !important;
+  font-family: "Tangerine", cursive !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  color: #FFFFFF !important;
 }
 
 #block-6199d8251a7b49f9e5c4 p {
-    font-size: 12px !important;
+  font-size: 12px !important;
 }
 
 #history_paragraph_container div {
 	font-family: "Tangerine", cursive !important;
-    font-weight: 400 !important;
-    font-style: normal !important;
-    color: #FFFFFF !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  color: #FFFFFF !important;
 }
 table#about_contact tr th {
   border: 2px solid black;
@@ -33,8 +34,7 @@ div.header-nav-item.header-nav-item--collection {
   font-optical-sizing: auto;
   text-decoration: none;
   text-transform: uppercase;
-  font-variation-settings:
-    "width" 100;
+  font-variation-settings: "width" 100;
 }
 
 #site-title-outline {
@@ -58,7 +58,7 @@ div.header-nav-item a {
   	letter-spacing: 2px;
 }
 
-div.header-nav-item::hover {
+div.header-nav-item:hover {
 	color: #FF4500;
 }
 
@@ -66,10 +66,6 @@ div.header-nav-item::hover {
   	font-family: "Fleur De Leah", serif;
   	font-weight: 500;
   	font-variant: small-caps;
-}
-
-#block-64b41f8228a75a4734b1 {
-  font-variant: small-caps;
 }
 
 div#yui_3_17_2_1_1740926746302_444 {
@@ -93,5 +89,5 @@ div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
     background-size: cover; /* Ensures the image covers the entire div */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents image repetition */
-   z-index: 0;
+    z-index: 0;
 }
