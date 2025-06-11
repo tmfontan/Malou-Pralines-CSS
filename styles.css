@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&family=Tangerine:wght@400;700&display=swap');
+
+#block-yui_3_17_2_1_1749628353488_30497 h4 {
+    font-family: "Tangerine", cursive !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    color: #FFFFFF !important;
+}
+
+#block-6199d8251a7b49f9e5c4 p {
+    font-size: 12px !important;
+}
+
+#history_paragraph_container div {
+	font-family: "Tangerine", cursive !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    color: #FFFFFF !important;
+}
+table#about_contact tr th {
+  border: 2px solid black;
+}
+
+div.header-nav-item.header-nav-item--collection {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-optical-sizing: auto;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-variation-settings:
+    "width" 100;
+}
+
+#site-title-outline {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.8);
+  z-index: -1;
+}
+
+#yui_3_17_2_1_1741039938309_474 {
+  padding: 0px;
+  border: none;
+}
+
+div.header-nav-item a {
+	text-transform: uppercase;
+  	font-weight: 600;
+  	letter-spacing: 2px;
+}
+
+div.header-nav-item::hover {
+	color: #FF4500;
+}
+
+#about_signature {
+  	font-family: "Fleur De Leah", serif;
+  	font-weight: 500;
+  	font-variant: small-caps;
+}
+
+#block-64b41f8228a75a4734b1 {
+  font-variant: small-caps;
+}
+
+div#yui_3_17_2_1_1740926746302_444 {
+  	width: fit-content;
+  	height: fit-content;
+  	padding: 5px;
+}
+
+div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
+  	width: fit-content;
+  	height: fit-content;
+  	padding: 5px;
+}
+
+#block-64b41f8228a75a4734b1 {
+  	font-variant: small-caps;
+}
+
+#yui_3_17_2_1_1740732065566_456 {
+    background-image: url('https://images.squarespace-cdn.com/content/67aa8eb98e8c0450716fb662/04007da4-d93c-4f62-b998-249669c685e9/Black_Texture.png?content-type=image%2Fpng'); /* Path to the image */
+    background-size: cover; /* Ensures the image covers the entire div */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents image repetition */
+   z-index: 0;
+}
