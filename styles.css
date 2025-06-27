@@ -33,10 +33,8 @@ h2#history-page-title {
 div.header-nav-item.header-nav-item--collection {
   font-family: "Montserrat", sans-serif;
   font-weight: 900;
-  font-optical-sizing: auto;
   text-decoration: none;
   text-transform: uppercase;
-  font-variation-settings: "width" 100;
 }
 
 #site-title-outline {
@@ -50,7 +48,7 @@ div.header-nav-item.header-nav-item--collection {
 }
 
 #yui_3_17_2_1_1741039938309_474 {
-  padding: 0px;
+  padding: 0;
   border: none;
 }
 
@@ -98,7 +96,7 @@ div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
 
 div.sqs-block.code-block-sqs-block-code#block-yui_3_17_2_1_1750972544389_4742 h4#catering_heading.preFade.fadeIn {
   font-family: "Roboto Slab", sans-serif;
-  font-weight: 17px;
+  font-size: 17px;
   font-style: normal;
   color: #FFFFFF;
   text-align: center;
