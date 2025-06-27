@@ -29,9 +29,6 @@ h2#history-page-title {
   font-style: normal !important;
   color: #FFFFFF !important;
 }
-table#about_contact tr th {
-  border: 2px solid black;
-}
 
 div.header-nav-item.header-nav-item--collection {
   font-family: "Montserrat", sans-serif;
