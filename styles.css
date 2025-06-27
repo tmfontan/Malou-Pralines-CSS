@@ -96,9 +96,10 @@ div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
     background-repeat: no-repeat; /* Prevents image repetition */
     z-index: 0;
 }
+
 /* -------------------------------------------------------------------------------------- */
 
-h4#catering_heading.preFade.fadeIn {
+#catering_heading.preFade.fadeIn h4 {
   font-family: "Roboto Slab", sans-serif !important;
   font-weight: 17px !important;
   font-style: normal !important;
@@ -107,7 +108,7 @@ h4#catering_heading.preFade.fadeIn {
   margin-top: 20px;
 }
 
-p#catering_paragraph {
+#catering_paragraph {
   font-family: "Tangerine", cursive !important;
   font-weight: 400 !important;
   font-style: normal !important;
