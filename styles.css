@@ -98,7 +98,7 @@ div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
 }
 /* -------------------------------------------------------------------------------------- */
 
-#catering_heading {
+h4#catering_heading {
   font-family: "Roboto Slab", sans-serif !important;
   font-weight: 17px !important;
   font-style: normal !important;
@@ -107,7 +107,7 @@ div.header-actions-action.header-actions-action--cta.preScale.scaleIn {
   margin-top: 20px;
 }
 
-#catering_paragraph {
+p#catering_paragraph {
   font-family: "Tangerine", cursive !important;
   font-weight: 400 !important;
   font-style: normal !important;
