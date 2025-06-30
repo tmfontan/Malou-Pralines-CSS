@@ -106,7 +106,7 @@ body.page-id-65 section[data-section-id] div#block-yui_3_17_2_1_1750972544389_47
   margin: 20px;
 }
 
-.oval-button {
+#yui_3_17_2_1_1751324438909_300 {
   display: inline-block;
   padding: 10px 30px;
   border-radius: 50px;
@@ -119,7 +119,8 @@ body.page-id-65 section[data-section-id] div#block-yui_3_17_2_1_1750972544389_47
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
-.oval-button:hover {
+#yui_3_17_2_1_1751324438909_300 {
+  display: inline-block;
   background-color: #814940;
   transform: scale(1.05);
 }
