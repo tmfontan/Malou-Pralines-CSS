@@ -105,6 +105,25 @@ body.page-id-65 section[data-section-id] div#block-yui_3_17_2_1_1750972544389_47
 #block-yui_3_17_2_1_1751146525931_4167{
   margin: 20px;
 }
+
+.oval-button {
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  background-color: #5a2a27; /* Adjust to match your brand */
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.oval-button:hover {
+  background-color: #814940;
+  transform: scale(1.05);
+}
+
 /*p#block-yui_3_17_2_1_1750972544389_5586 {
   font-family: "Tangerine", cursive;
   font-weight: 400;
